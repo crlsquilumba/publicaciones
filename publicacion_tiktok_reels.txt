@@ -1,0 +1,77 @@
+🔥 INFOGRAFÍA TIKTOK/REELS - 30 SEGUNDOS 🔥
+
+═══════════════════════════════════════
+🎬 [MUSICA DE FONDO: Trending sound]
+═══════════════════════════════════════
+
+SLIDE 1 (0-5 seg) - HOOK
+────────────────────────────────
+📱💬 Usas Chatbots AI? 
+⚠️ Tu información podría estar entrenando modelos SIN QUE LO SEPAS!
+
+🔍 Investigación completa ↓
+
+#AI #ChatGPT #ClaudeAI #Tips
+
+────────────────────────────────
+
+SLIDE 2 (5-12 seg) - CLAUDE
+────────────────────────────────
+🔴 CUENTA PERSONAL DE CLAUDE:
+
+❌ USA TUS DATOS PARA ENTRENAR (desde 2025)
+⏱️ HASTA 5 AÑOS de retención
+⚠️ Por defecto tiene el OPT-IN activo
+
+✅ SOLUCIÓN: 
+Settings → Privacy → OFF en "Help Improve Claude"
+
+#PrivacidadIA #Seguridad
+
+────────────────────────────────
+
+SLIDE 3 (12-20 seg) - AZURE
+────────────────────────────────
+🟢 AZURE AI (MICROSOFT):
+
+✅ NUNCA usa tus datos para entrenar
+✅ TUS DATOS = SOLO TUYOS
+✅ No se comparten con NADIE
+✅ Control total de tu región
+✅ Cumple GDPR, HIPAA, ISO 27001
+
+#AzureAI #Microsoft #Protegido
+
+────────────────────────────────
+
+SLIDE 4 (20-28 seg) - RESUMEN
+────────────────────────────────
+🏆 QUÉ HACER?
+
+📊 Empresa / Datos sensibles:
+   → Usa AZURE AI
+
+📱 Uso personal:
+   → Desactiva la opción de entrenamiento en Claude
+   → Usa modo Incógnito
+
+#Tips #SeguridadDatos
+
+────────────────────────────────
+
+SLIDE 5 (28-30 seg) - CRÉDITOS
+────────────────────────────────
+📚 Fuentes:
+• anthropic.com/privacy
+• learn.microsoft.com
+
+🔍 Investigación: @CarlosQuilumba
+
+#Investiga #FuentesReales
+
+═══════════════════════════════════════
+📌 TEXT OVERLAY建议:
+- Font: Bold, white with black outline
+- Duration por slide: 5-6 segundos
+- Transiciones: Slide left
+═══════════════════════════════════════

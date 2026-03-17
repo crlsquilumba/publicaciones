@@ -1,0 +1,106 @@
+═══════════════════════════════════════════════════════════
+                    🔒 TIPS IA 🔒
+═══════════════════════════════════════════════════════════
+
+SLIDE 1 (Portada)
+───────────────────────────────────────────────────────────
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│         🔒 PRIVACIDAD: CLAUDE vs AZURE 🔒            │
+│                                                      │
+│     ¿Dónde van tus datos cuando usas IA?            │
+│                                                      │
+│            [ CARLOS QUILUMBA INVESTIGÓ ]            │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
+
+#TipsIA #PrivacidadIA #InteligenciaArtificial
+
+───────────────────────────────────────────────────────────
+
+SLIDE 2 - CLAUDE (Cuenta Personal)
+───────────────────────────────────────────────────────────
+╭──────────────────────────────────────────────────────╮
+│  🔴 CLAUDE - CUENTA PERSONAL                         │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  ❌ ¿Entrena con tus datos? → SÍ (por defecto)     │
+│  ⏱️ Retención: HASTA 5 AÑOS                          │
+│  ⚠️ Cambio en septiembre 2025                        │
+│                                                      │
+│  ✅ CÓMO PROTEGERTE:                                │
+│  1. Settings → Privacy                              │
+│  2. Desactiva "Help Improve Claude"                 │
+│  3. Usa el MODO INCOGNITO                           │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
+
+#ClaudeAI #Privacidad
+
+───────────────────────────────────────────────────────────
+
+SLIDE 3 - AZURE AI
+───────────────────────────────────────────────────────────
+╭──────────────────────────────────────────────────────╮
+│  🟢 AZURE AI - MICROSOFT                             │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  ✅ ¿Entrena con tus datos? → NUNCA                 │
+│  ✅ Tus datos = Solo tuyos                           │
+│  ✅ No se comparten con otros clientes              │
+│  ✅ Control de región (tú eliges dónde)              │
+│                                                      │
+│  📋 CUMPLE: GDPR | HIPAA | SOC 2 | ISO 27001        │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
+
+#AzureAI #Microsoft #Seguridad
+
+───────────────────────────────────────────────────────────
+
+SLIDE 4 - CONCLUSION
+───────────────────────────────────────────────────────────
+╭──────────────────────────────────────────────────────╮
+│  🏆 VEREDICTO                                       │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  📊 Para empresas/info sensible:                    │
+│     → AZURE AI = más protección legal               │
+│                                                      │
+│  📱 Para uso personal:                              │
+│     → Desactiva "Help Improve Claude"              │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
+
+#SeguridadDatos #AI
+
+───────────────────────────────────────────────────────────
+
+SLIDE 5 - REFERENCIAS
+───────────────────────────────────────────────────────────
+╭──────────────────────────────────────────────────────╮
+│  📚 REFERENCIAS BIBLIOGRÁFICAS                       │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  [1] Anthropic Privacy Policy                        │
+│      anthropic.com/privacy                          │
+│                                                      │
+│  [2] Anthropic Model Training Notice                 │
+│      anthropic.com/legal/model-training-notice       │
+│                                                      │
+│  [3] WIRED - "How to Opt Out of Claude Training"     │
+│      wired.com/story/anthropic-using-claude-...     │
+│                                                      │
+│  [4] Microsoft Azure AI Data Privacy                 │
+│      learn.microsoft.com                             │
+│                                                      │
+│  [5] Azure OpenAI Data Privacy & Security           │
+│      learn.microsoft.com/.../data-privacy            │
+│                                                      │
+├──────────────────────────────────────────────────────┤
+│           Carlos Quilumba investigó 🔍              │
+╰──────────────────────────────────────────────────────╯
+
+#Investigación #Fuentes
+
+═══════════════════════════════════════════════════════════

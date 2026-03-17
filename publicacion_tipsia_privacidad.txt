@@ -1,0 +1,64 @@
+╔════════════════════════════════════════════════════════════╗
+║                    🔒 TIPS IA 🔒                           ║
+║           PRIVACIDAD: CLAUDE vs AZURE AI                   ║
+║                                                               ║
+║    Tu info personal ¿está segura en chatbots AI?            ║
+║                  Descúbrelo ahora ↓                         ║
+╚════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔴 CLAUDE (Cuenta Personal)
+━━━━━━━━━━━━━━━━━━━━━
+
+❌ ¿USA TUS DATOS PARA ENTRENAR? → SÍ (por defecto)
+❌ RETENCIÓN DE DATOS → HASTA 5 AÑOS 
+⚠️ Cambio en Septiembre 2025
+
+✅ SOLUCIÓN:
+   → Ve a Settings → Privacy
+   → Desactiva "Help Improve Claude"
+   → Usa modo Incógnito
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🟢 AZURE AI (Microsoft)
+━━━━━━━━━━━━━━━━━━━━━
+
+✅ ¿USA TUS DATOS PARA ENTRENAR? → NUNCA
+✅ TUS DATOS = SOLO TUYOS
+✅ NO se comparten con otros clientes
+✅ Control total de dónde se procesa
+✅ Cumple: GDPR, HIPAA, SOC 2, ISO 27001
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 ¿CUÁL ES MÁS SEGURO?
+━━━━━━━━━━━━━━━━━━━━━
+
+PARA INFO SENSIBLE O NEGOCIOS:
+   👉 AZURE AI = Más protección legal
+
+PARA USO PERSONAL:
+   👉 Desactiva "Help Improve Claude" en Claude
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 REFENCIAS BIBLIOGRÁFICAS
+━━━━━━━━━━━━━━━━━━━━━
+
+[1] Anthropic Privacy Policy - anthropic.com/privacy
+[2] Anthropic Model Training Notice - anthropic.com/legal/model-training-notice
+[3] WIRED - "How to Opt Out of Claude Training" - wired.com
+[4] Microsoft Azure AI Data Privacy - learn.microsoft.com
+[5] Azure OpenAI Data, Privacy & Security - learn.microsoft.com/en-us/azure/foundry/responsible-ai/openai/data-privacy
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                    Carlos Quilumba investigó 🔍
+
+                    #InteligenciaArtificial #PrivacidadIA 
+                    #ClaudeAI #AzureAI #TipsIA 
+                    #SeguridadDatos #GDPR #AI
+
+══════════════════════════════════════════════════════════
