@@ -5,6 +5,13 @@ metadata:
   description: Sin descripción
   annotations:
     github.com/project-slug: crlsquilumba/publicaciones
+    github.com/branch-count: "1"
+    github.com/has-gitflow: "false"
+    github.com/default-branch: "feature/imagen-publicacion-claude-code"
+  links:
+    - url: https://github.com/crlsquilumba/publicaciones/tree/feature/imagen-publicacion-claude-code
+      title: "🌿 feature/imagen-publicacion-claude-code"
+      icon: github
 spec:
   type: library
   lifecycle: experimental
